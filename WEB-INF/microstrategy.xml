@@ -1,0 +1,9 @@
+<application>
+  <controllers>
+    <controller name="mstrWeb">
+      <parameters>
+        <parameter name="externalSecurityClass" value="com.mw.esm.TestESM"/>
+      </parameters>
+    </controller>
+  </controllers>
+</application>
